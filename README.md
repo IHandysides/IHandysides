@@ -47,7 +47,7 @@ Writeups in progress — [github.com/IHandysides/writeups](https://github.com/IH
 
 ## TryHackMe
 
-Top 30% globally — 21 rooms completed — 4 badges earned
+Top 15% globally — 52 rooms completed — 10 badges earned
 
 Notable rooms: Pentesting Fundamentals, Metasploit Introduction, Red Team Engagements, Junior Security Analyst Intro, SOC Blue Team, Linux Fundamentals, Hydra, Python Basics, Governance & Regulation
 
